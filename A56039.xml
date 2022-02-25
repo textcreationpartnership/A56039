@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the flock of God every where gathered out of the worlds wayes, worships, and false separations, into the way of truth, worship of the spirit, and its pure guidance, where true satisfaction and peace is witnessed, that you all may keep there for there is your rest for ever, and your safety in time of your trouble; that none may gad or go astray out of the way of truth for the love of any thing: for such shall meet with tribulation, anguish and wrath from the Lord God Almighty.</title>
+            <author>Parke, James, 1636-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56039</idno>
+            <idno type="STC">Wing P374</idno>
+            <idno type="STC">ESTC R221400</idno>
+            <idno type="EEBO-CITATION">99832712</idno>
+            <idno type="PROQUEST">99832712</idno>
+            <idno type="VID">37186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2149:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the flock of God every where gathered out of the worlds wayes, worships, and false separations, into the way of truth, worship of the spirit, and its pure guidance, where true satisfaction and peace is witnessed, that you all may keep there for there is your rest for ever, and your safety in time of your trouble; that none may gad or go astray out of the way of truth for the love of any thing: for such shall meet with tribulation, anguish and wrath from the Lord God Almighty.</title>
+                  <author>Parke, James, 1636-1696.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: James Park. Written near Colchester in Essex the 5th of the 8th mon. 1666.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37186:1"/>
+            <pb n="1" facs="tcp:37186:1" rendition="simple:additions"/>
+            <head>To the Flock of God every where ga<g ref="char:EOLhyphen"/>thered out of the Worlds Wayes, Worſhips, and falſe Separations, into the Way of Truth, Worſhip of the Spirit, and its pure guidance, where true Satisfaction and Peace is witneſſed, that you all may keep there; for there is your Reſt for ever, and your Safety in time of your trouble; that none may gad or go aſtray out of the Way of Truth for the love of any thing: for ſuch ſhall meet with Tribulation, Anguiſh and Wrath from the Lord God Almighty.</head>
+            <p>
+               <hi>DEar Friends,</hi> Who are gathered into the Life of GOD and Seed Immortal, which was before the ſeed of the Adulterer and power of Darkneſs and Death was, and are planted a Noble Vine, an holy and right Seed, in that grow, ſpread forth your Roots and flouriſh, that you may be fruitful to God; and ſtand out of the ſeed of the Adulterer, and keep over the Serpent's windings, and turnings, and ſubtilty; and that Serpent, and them in it, that would draw you forth into the World, its Inventions, Cuſtoms and Traditions, or to an Oneneſs with them; for you cannot pleaſe nor ſerve two Maſters, you muſt hate the one and love the other, and cleave to the one and deſpiſe the other: Therefore, <hi>Dear Friends</hi> all, keep in the right Seed, Nature and Ground, and grow in that over the World and periſhing things, and you will all be pleaſant Plants, and the Iſſues of Life and freſh ſhowers of the Love of God you will plentifully feel, and
+<pb n="2" facs="tcp:37186:2"/>dwel in the inviſible Power of God, out of all viſible things, out of the will of the fleſh, or the will of man in the pride of life; for by that, Death comes over, and Darkneſs co<g ref="char:EOLhyphen"/>vers, and gets head and maſtery, and ſo comes to rule and bear ſway. O let not your minds go after the World, its fleſh-pots, or any thing you have forſaken, and left behind you for Truths ſake, never let that come into your remem<g ref="char:EOLhyphen"/>brance again ſo as to luſt after it, but preſs forwards in fol<g ref="char:EOLhyphen"/>lowing the Lord. O look not back on the fading glory of any viſible or mutable thing, but minde the Lord that brought you out of the houſe of bondage, and <hi>Aegypts</hi> darkneſs, and hath ſafely led you on all along, and com<g ref="char:EOLhyphen"/>fortably watched over you, as a Shepherd over his flock; <hi>Dear Friends,</hi> walk on in the ſence of the Lord's Power and precious Preſence with you in all your undertakings, that in the living Faith you all may ſtand faſt; and quit your ſelves from every thing that would entangle you, or draw you aſide again into the Corruptibles, that ſo in the Faith all may be given up, and you made truly willing to ſuffer the loſs of all: Let nothing be kept back or thought too dear or near to be parted with, that's viſible and periſh<g ref="char:EOLhyphen"/>ing, what-ever it be, Husband, Wife, Children, Gold, Sil<g ref="char:EOLhyphen"/>ver, Lands, or full Trading and Imployments, value them not, nor love them more than the Truth; for if any ſo do, they will not be found worthy of the Truth, but the <hi>Truth</hi> ſhall be given to them that are more worthy of it, and whoſe delight is to ſerve it and honour it: So what-ever ſtands in your way, or at any time would hinder you from running the Race that is ſet before you; or, what-ever be<g ref="char:EOLhyphen"/>ſets any of you, or burthens the Juſt in you, caſt it from you, and lay it aſide, and freely part with it; for they are worthy of the Truth, and knows moſt how to prize it, that
+<pb n="3" facs="tcp:37186:2"/>have laid down all for it; ſuch come to the Everlaſting-Inheritance which fades not away; and by the laying down of their own Life, thereby come to ſave it. But many come to loſe the Life, becauſe they were never truly willing to lay down, deny, and forſake that, which in the evil nature and ground they have a life in, and yeeld unto that which is evil, and work offence againſt God, ſhunning the Croſſe of Chriſt, wherein the Power of God is manifeſted unto all that obey him; for the crucifying and ſlaying of that which is contrary to God, which the Prince of Darkneſs works, and would keep all people in, to their loſs and ruine. But, <hi>Dear Friends,</hi> be willing to lay down all, and part with that life which any have in any thing that will periſh and come to an end, wherein it works againſt the Truth, and hinders its growth and proſperity, or the preſervation and perſeve<g ref="char:EOLhyphen"/>rance in it. O lay all down at the feet of the Lamb, who prevails and ſhall have the Victory, and ſtand with the pure Lamb againſt, and keep over all Deceit and Hypocriſie in them that would pervert the way of Truth, and draw you aſide from your firſt Love, and ſtedfaſtneſs to God and his People, into bitterneſs and unſtability of mind and ſpirit, and would ſwell you up in vain conceits, prejudice and evil ſurmiſing, and that would labour to beget any of you into an amity with the Profeſſions of the World, who are out of the Seed and Life of God, wherein the true Church-Unity ſtood, and ever ſtands over them all who are of the falſe Church and Mother of Harlots, and over all their feigned ſhews and hypocritical pretences of Love and Amity; that will ſpeak fair, and make a fair ſhew, but within full of rot<g ref="char:EOLhyphen"/>tenneſs, death, darkneſs, evil thoughts and Murders, which proceed out of their evil hearts, and <hi>they cannot ceaſe from ſin,</hi> but make a mock at it, and plead for it, that they might
+<pb n="4" facs="tcp:37186:3"/>have it for term of life, and cannot be free till they come at the Grave, as though the Grave would recover them, and free them from their ſins; which is altogether incredible, and but a formed imagined thing: therefore <hi>Friends,</hi> keep out of the Worlds ſpirit, principles, and dark groundleſs perſwaſions; keep clear out of them, and tamper not with their dead principles, perſwaſions, vain traditions, carnal or<g ref="char:EOLhyphen"/>dinances, forms which they have invented; nor their Wor<g ref="char:EOLhyphen"/>ſhips which profit not, nor make the comers thereunto per<g ref="char:EOLhyphen"/>fect; but keep clear out of them all, in That wherein you have acceptance with God, and his pure Preſence apparant<g ref="char:EOLhyphen"/>ly hath been manifeſted in, for the quickning, comforting, and refreſhing of you in all your tryals and ſufferings, which you have paſſed through, and been acquainted with, for the tryal of your Faith in this day of <hi>Jacobs</hi> troubles, wherein the Lord hath been ſifting the houſe of <hi>Iſrael,</hi> and is pur<g ref="char:EOLhyphen"/>ging away the filth of the daughter of <hi>Sion,</hi> and arraying her with the Beautiful Garments and comly Ornaments, where<g ref="char:EOLhyphen"/>in ſhe ſhines forth in the excellent Glory and Comlineſs which the Lord hath put upon her: And this is ſhe that ſometimes ſate as forſaken, and few minded to ſeek after her, but now is become <hi>a City ſought up, and not forſaken, and is become the Delight and Ranſomed of the Lord, that is re<g ref="char:EOLhyphen"/>turned out of</hi> Babylon <hi>and</hi> Egypt <hi>with Songs of Deliverance.</hi> And undoubtedly the Lord will wound and cut off the ſtout-hearted for your ſakes, and all they that are incenſed againſt you ſhall be aſhamed, and they that ſtrive with you ſhall periſh; and the Lord will be with you, and go before you that remain ſtedfaſt and conſtant in the love of <hi>his Truth</hi> and <hi>People,</hi> if you travel on, not turning to the right-hand or to the left, nor gad abroad to change your way: for if any forſake the Lord, who is <hi>the Way,</hi> or his Work and
+<pb n="5" facs="tcp:37186:3"/>Teſtimony, in meeting together with the Saints &amp; Servants of God, that feel his preſence with them; how ſhould they expect but the Lord ſhould leave them, and ſlight them that ſlight his Work and Teſtimony, which ſo ſignally he hath owned and led us on in? wherein alſo we have wit<g ref="char:EOLhyphen"/>neſſed an overcoming of Sin and the Devils works, as the Children of the Lord did in the Generations paſt; I ſay, how ſhould ſuch but grow cold, dry and barren, and loſe their ſavour, and ſo be good for nothing but to be trodden under foot of men, who ſtumble at, and ſlight, and cauſe others to ſtumble at and ſlight the manifeſt Requirings of God, to meet together to ſpeak of the things of his King<g ref="char:EOLhyphen"/>dom, to wait upon and worſhip him, as our former manner was? So, dear <hi>Friends,</hi> abide in the Seed which keeps true, ſingle, conſtant and unmovable, alwayes abounding in the unfeigned Love of God, that his Work may proſper in you, and you be kept upright to the Lord, rejecting e<g ref="char:EOLhyphen"/>very evil way and ſpirit which gathers not into that which is wholſom and ſound, which you have heard from the be<g ref="char:EOLhyphen"/>ginning, and been aſſured of by manifold Teſtimonies from Heaven, which God's Witneſs in you hath anſwered to, that have believed and obeyed from your hearts what was delivered unto you, and are preſerved in the ſame Love, Life and heavenly Unity of the One Spirit, by which all the Plants of God were quickened, and kept freſh and green through ſundry ſtorms and tempeſts which they have paſt through and been exerciſed in, both inwardly and outward<g ref="char:EOLhyphen"/>ly. O <hi>dear Friends,</hi> ſhut out the Wicked-One, and lend not an ear to his Allurements, nor open an eye to look out at the Glory of this World, which in the Inviſible you may ſee paſſing away very ſwiftly: and the Glory of all fleſh God is ſtaining, and through all his Judgments revealed,
+<pb n="6" facs="tcp:37186:4"/>manifeſting the emptineſs and uncertainty of all things un<g ref="char:EOLhyphen"/>der the Sun. So, <hi>dear Friends,</hi> feel dominion over all that which is uncertain and fading away, and ſtand in the Dread of God over all Changeables, and them that are ſubject to change their way, and that run out in high-mindedneſs, ſelf-ſeeking, feigned-flatteries with the tongue, when their hearts are not with you; And be all in Reality what you profeſs in words, and let Truth guide you in all things; and beware of ſtrengthning the Bad in one another: when you at any time ſee one another, let your words be few and ſavoury, ſeaſoned with Salt, that <hi>they may adminiſter Grace to the hearers;</hi> and covet the wholſomeſt words and the beſt gifts, and follow the things that make for Peace, as much as in you lieth; and <hi>provoke one another to Love and to good works:</hi> And if any be a Talker, or a Buſie-body, or a falſe Accuſer, or a Backbiter, or a Slanderer, going about pra<g ref="char:EOLhyphen"/>ting of things they ought not, warn ſuch unruly ſpirits, and withdraw from them, that they may be aſhamed, that they may be reproved ſharply, and exhorted to mind their own buſineſs, ſtill deſiring that they might come to the acknow<g ref="char:EOLhyphen"/>ledgment of their Sins, and to Repentance for them, and forſake them.</p>
+            <p>So, <hi>dear Friends,</hi> the God of all Grace eſtabliſh you, and keep you in that which works for God, and which is able to preſent you all ſpotleſs and unblamable in Holineſs; for truly God (through his abundant mercy and kindneſs) hath extended Life to us that were dead, and by his Power hath raiſed the Dead, and opened the Graves, and you that are now come forth of the graves of ſin and iniquity, that ſometime dwelt in the duſt, can now ſing, being awakened out of the ſleep of Death, wherein the World and all the ſalſe gatherings lie, ſo rejoyce and triumph over Death,
+<pb n="7" facs="tcp:37186:4"/>and that which would draw into Death &amp; Darkneſs again; and prize the Truth, in which Life and Salvation is found and witneſſed; O turn not from it, for if any one turn from it, condemnation and miſery ſhall come upon them, which they ſhall not be able to eſcape whitherſoever they run, to hide themſelves, or to ſave their lives, they ſhall loſe them, the Lord will find them out, and will bring torment and diſtreſs upon them, morning by morning they ſhall have no reſt nor peace, all joy ſhall be taken from them, when the Faithful come to rejoyce and clap their hands for joy; after the days of their Mourning be over, then ſhall ſorrow and ſadneſs, mourning and bitter lamentations come upon all that are not faithful to the Lord in their day. There<g ref="char:EOLhyphen"/>fore, <hi>dear Friends,</hi> you that know the Truth, prize it more and more, be faithful to its requirings, and value it more than all viſible things; prize nor eſteem any thing, though never ſo delightful or profitable, as the <hi>Truth,</hi> and the Truth will free you from all that which would hurt, and keep you over all to the Glory of God; keep it, and it will be your life, it will preſerve you and be a Sanctuary of ſafety for you when the ſcourge of the Almighty paſſeth through the Land with greater ſeverity to deſtroy and cut off its Inha<g ref="char:EOLhyphen"/>bitants than yet hath been known in our generation. Oh! Bleſſed are you that have a habitation &amp; dwel in the Truth, the <hi>infallible way to God,</hi> you need not look for another; for there is no other unto God but <hi>Chriſt,</hi> whom we have belie<g ref="char:EOLhyphen"/>ved in, who is <hi>the Way, the Truth and the Life,</hi> in whom I re<g ref="char:EOLhyphen"/>main, your Brother and Companion in Sufferings, Exerciſes and Tribulations for the Goſpels ſake, which is the Power of God.</p>
+            <closer>
+               <dateline>Written near <hi>Colchester</hi> in <hi>Eſſex</hi> 
+                  <date>the 5th of the 8th mon. 1666.</date>
+               </dateline>
+               <signed>JAMES PARK.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:37186:5"/>
+            <p>Let this be read amongſt Friends when you meet toge<g ref="char:EOLhyphen"/>ther in the Spirit of Love; and of a Sound Mind, as it is written.</p>
+            <pb facs="tcp:37186:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
